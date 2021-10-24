@@ -4,6 +4,7 @@
     <string name="btn">转换为华氏度</string>
     <string name="result">结果是：</string>
     <string name="team">Team A</string>
+    <string name="team2">Team B</string>
     <string name="score">0</string>
     <string name="three">+3 points</string>
     <string name="two">+2 points</string>
